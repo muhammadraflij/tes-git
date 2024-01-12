@@ -1,1 +1,2 @@
-tes 123
+a = t123
+print(a)
